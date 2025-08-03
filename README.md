@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-CC0--1.0-green.svg)
 
 ## 📋 Table of Contents
 - [Overview](#overview)
