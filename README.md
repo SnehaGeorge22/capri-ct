@@ -20,7 +20,7 @@
 
 ## 🔬 Overview
 
-CAPRI-CT is a novel causal-aware deep learning framework designed to optimize image quality in Computed Tomography (CT) imaging while minimizing radiation exposure. The framework integrates image data with acquisition metadata to model underlying causal relationships that influence Signal-to-Noise Ratio (SNR) in CT scans.
+CAPRI-CT is a novel causal-aware deep learning framework designed to optimize image quality in Computed Tomography (CT) imaging while minimizing radiation exposure. The framework integrates image data with acquisition metadata to model underlying causal relationships that influence Signal-to-Noise Ratio (SNR) in CT images.
 
 ### Problem Statement
 - Optimizing CT image quality while minimizing radiation exposure remains a key clinical challenge
