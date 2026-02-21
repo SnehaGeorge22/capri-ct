@@ -309,10 +309,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
-
-This research was conducted at the University of Exeter. We thank the reviewers from MICCAI International Conference 2025 and BMC Medical Imaging journal for their valuable feedback that strengthened this work.
-
----
-
 **⭐ If you find this work useful, please consider starring the repository and citing our paper!**
